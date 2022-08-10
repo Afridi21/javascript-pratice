@@ -94,7 +94,16 @@
 // const done=covert(kilometer);
 // console.log("The meter is=",done);
 
+// const shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles'];
+// console.log(shopping[2]);
 
+
+// function isLong(city) {
+//     return city.length > 8;
+//   }
+//   const cities = ['London', 'Liverpool', 'Totnes', 'Edinburgh'];
+//   const longer = cities.filter(isLong);
+//   console.log(longer); 
 
 
 
